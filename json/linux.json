@@ -1,0 +1,14 @@
+[
+    {"subject": "Linux", "date": "19 Maj, 2021", "referral": "window.open('https://linux.tihub.pl/www/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "WWW"},
+    {"subject": "Linux", "date": "16 Maj, 2021", "referral": "window.open('https://linux.tihub.pl/postfix/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Postfix"},
+    {"subject": "Linux", "date": "7 Maj, 2021", "referral": "window.open('https://linux.tihub.pl/ftp2/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "FTP"},
+    {"subject": "Linux", "date": "21 Kwiecień, 2021", "referral": "window.open('https://linux.tihub.pl/ftp/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "FTP"},
+    {"subject": "Linux", "date": "12 Kwiecień, 2021", "referral": "window.open('https://linux.tihub.pl/dhcp-dns/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Instalacja i konfiguracja serwera DHCP oraz DNS"},
+    {"subject": "Linux", "date": "24 Marzec, 2021", "referral": "window.open('https://linux.tihub.pl/ssh/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "SSH"},
+    {"subject": "Linux", "date": "8 Marzec, 2021", "referral": "window.open('https://linux.tihub.pl/telnet/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Telnet"},
+    {"subject": "Linux", "date": "2 Marzec, 2021", "referral": "window.open('https://linux.tihub.pl/ufw-gufw/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Konfiguracja UFW i GUFW"},
+    {"subject": "Linux", "date": "8 Luty, 2021", "referral": "window.open('https://linux.tihub.pl/drukowanie/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Drukowanie"},
+    {"subject": "Linux", "date": "26 Styczeń, 2021", "referral": "window.open('https://linux.tihub.pl/operacjenauzytkownikachigrupach/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Operacje na użytkownikach i grupach"},
+    {"subject": "Linux", "date": "15 Grudzień, 2020", "referral": "window.open('https://linux.tihub.pl/klientpoczty/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Klient poczty"},
+    {"subject": "Linux", "date": "8 Grudzień, 2020", "referral": "window.open('https://linux.tihub.pl/konfiguracjainterfejsowsieciowych/')", "icon": "icon-lg mdi mdi-ubuntu text-warning ml-auto", "description": "Konfiguracja interfejsów sieciowych"}
+]
