@@ -1,0 +1,78 @@
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000000; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #191C24; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0090e7; 
+}
+
+
+
+.MGb8 {
+  margin-bottom: 8px;
+}
+.MGb5 {
+  margin-bottom: 5px;
+}
+.MGb4 {
+  margin-bottom: 4px;
+}
+.MGb0 {
+  margin-bottom: 0px;
+}
+hr {
+  border: 0;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+.tihub-note-card {
+  height: 100%;
+  cursor: pointer;
+}
+.TIapkDcard {
+  margin: 20px;
+}
+.tihub-apk-row-mg {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.tihub-nlAc {
+  position: relative;
+  background: #0f1015;
+}
+.tihub-nlAc:before {
+  content: "";
+  width: 3px;
+  height: 100%;
+  background: #0090e7;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.tihub-cur-pointer {
+  cursor: pointer;
+}
+.tihub-white {
+  color: #ffffff;
+}
+.tihub-logo {
+  color: #ffffff;
+}
+.tihub-logo-mini {
+  margin-left: 20px;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
